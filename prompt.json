@@ -1,0 +1,11 @@
+{"claim-2152": {
+    "claim_text": "Venus doesn't have a runaway greenhouse effect", 
+    "ranked_evidences": [{
+        "id": "evidence-1018575",
+        "text": "A runaway greenhouse effect involving carbon dioxide and water vapor has long ago been hypothesized to have occurred on Venus, this idea is still largely accepted[citation needed]."
+      }
+    ],
+    "claim_label": "REFUTES", 
+    "evidences": ["evidence-1018575"]
+    }
+}
