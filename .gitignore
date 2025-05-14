@@ -1,1 +1,5 @@
 /data
+/wandb
+/checkpoints
+/ce-f1
+/ce-fscore
