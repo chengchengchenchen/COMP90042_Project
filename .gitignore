@@ -1,5 +1,2 @@
-/data
-/wandb
-/checkpoints
-/ce-f1
-/ce-fscore
+/data/evidence.json
+/other_code
