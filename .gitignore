@@ -1,0 +1,12 @@
+# Ignore large artefacts (>50 MB)
+COMP90042_2025/data/evidence.json
+local_model/
+*.safetensors
+*.onnx
+*.bin
+*.h5
+*.ot
+emb.npy
+tfidf_emb.npy
+bm25_tfidf/
+retr_*.pkl
