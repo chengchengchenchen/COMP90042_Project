@@ -1,0 +1,49 @@
+Preparing data: 100%|██████████| 1228/1228 [00:00<00:00, 2391.02it/s]
+Preparing data: 100%|██████████| 154/154 [00:00<00:00, 4268.25it/s]
+
+[dev Evaluation] Epoch 0.26055237102657636, Step 1000:
+Accuracy: 0.9919, Precision: 0.6429, Recall: 0.0700, F1: 0.1263
+
+[dev Evaluation] Epoch 0.5211047420531527, Step 2000:
+Accuracy: 0.9919, Precision: 0.7368, Recall: 0.0545, F1: 0.1014
+
+[dev Evaluation] Epoch 0.7816571130797291, Step 3000:
+Accuracy: 0.9919, Precision: 0.6216, Recall: 0.0895, F1: 0.1565
+
+[dev Evaluation] Epoch 1.0, Step 3838:
+Accuracy: 0.9920, Precision: 0.6774, Recall: 0.0817, F1: 0.1458
+
+[dev Evaluation] Epoch 1.0422094841063054, Step 4000:
+Accuracy: 0.9919, Precision: 0.6875, Recall: 0.0428, F1: 0.0806
+
+[dev Evaluation] Epoch 1.3027618551328817, Step 5000:
+Accuracy: 0.9918, Precision: 0.5294, Recall: 0.1401, F1: 0.2215
+
+[dev Evaluation] Epoch 1.563314226159458, Step 6000:
+Accuracy: 0.9919, Precision: 0.6364, Recall: 0.0817, F1: 0.1448
+
+[dev Evaluation] Epoch 1.8238665971860344, Step 7000:
+Accuracy: 0.9919, Precision: 0.6053, Recall: 0.0895, F1: 0.1559
+
+[dev Evaluation] Epoch 2.0, Step 7676:
+Accuracy: 0.9918, Precision: 0.5283, Recall: 0.1089, F1: 0.1806
+
+[dev Evaluation] Epoch 2.084418968212611, Step 8000:
+Accuracy: 0.9918, Precision: 0.5286, Recall: 0.1440, F1: 0.2263
+
+[dev Evaluation] Epoch 2.344971339239187, Step 9000:
+Accuracy: 0.9910, Precision: 0.4138, Recall: 0.1868, F1: 0.2574
+
+[dev Evaluation] Epoch 2.6055237102657633, Step 10000:
+Accuracy: 0.9913, Precision: 0.4464, Recall: 0.1946, F1: 0.2710
+
+[dev Evaluation] Epoch 2.8660760812923396, Step 11000:
+Accuracy: 0.9913, Precision: 0.4250, Recall: 0.1323, F1: 0.2018
+
+[dev Evaluation] Epoch 3.0, Step 11514:
+Accuracy: 0.9913, Precision: 0.4421, Recall: 0.1634, F1: 0.2386
+Reranking: 100%|██████████| 153/153 [00:17<00:00,  8.92it/s]
+Done!
+Reranking: 100%|██████████| 153/153 [00:12<00:00, 11.88it/s]
+Done!
+Reranking: 100%|██████████| 154/154 [00:16<00:00,  9.31it/s]

@@ -71,7 +71,7 @@ if __name__ == "__main__":
     parser.add_argument(
         "--top100",
         type=str,
-        default="./data/dev-claims-top6-dense.json",
+        default="./data/dev-claims-top6-dense-fce.json",
     )
     args = parser.parse_args()
     main(args.train_claims, args.top100)

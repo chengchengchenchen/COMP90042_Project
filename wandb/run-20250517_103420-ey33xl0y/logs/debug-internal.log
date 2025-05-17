@@ -1,0 +1,19 @@
+{"time":"2025-05-17T10:34:20.718107+10:00","level":"INFO","msg":"stream: starting","core version":"0.19.10","symlink path":"e:\\UniMelb\\Natural Language Processing\\Project\\COMP90024_Project\\wandb\\run-20250517_103420-ey33xl0y\\logs\\debug-core.log"}
+{"time":"2025-05-17T10:34:21.3475481+10:00","level":"INFO","msg":"created new stream","id":"ey33xl0y"}
+{"time":"2025-05-17T10:34:21.3475481+10:00","level":"INFO","msg":"stream: started","id":"ey33xl0y"}
+{"time":"2025-05-17T10:34:21.3475481+10:00","level":"INFO","msg":"handler: started","stream_id":"ey33xl0y"}
+{"time":"2025-05-17T10:34:21.3481035+10:00","level":"INFO","msg":"writer: Do: started","stream_id":"ey33xl0y"}
+{"time":"2025-05-17T10:34:21.3481035+10:00","level":"INFO","msg":"sender: started","stream_id":"ey33xl0y"}
+{"time":"2025-05-17T10:34:21.7276537+10:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-05-17T10:36:59.7356276+10:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-05-17T10:36:59.737923+10:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-05-17T10:37:31.1735738+10:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-05-17T10:37:34.8514601+10:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-05-17T10:37:45.7570829+10:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-05-17T10:55:12.4871107+10:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-05-17T10:57:28.2806019+10:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-05-17T10:57:45.6876472+10:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-05-17T10:57:53.4535361+10:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-05-17T10:58:06.4893671+10:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-05-17T10:59:44.2059874+10:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-05-17T11:00:00.7775847+10:00","level":"INFO","msg":"Resuming system monitor"}
